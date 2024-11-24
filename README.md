@@ -6,12 +6,10 @@
     <header>
       <h1>Личный сайт</h1>
       <p>Который сделан на основе готового шаблона</p>
-      <nav>
-        <ul>
+
           vehhhhh
           
-        </ul>
-      </nav>
+   
     </header>
     <main>
       <article>
